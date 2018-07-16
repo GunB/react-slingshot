@@ -34,10 +34,12 @@
     "@material-ui/icons": "1.1.0",
     "object-assign": "4.1.0",
     "react": "16.2.0",
+    "react-chartist": "0.13.1",
     "react-dom": "16.2.0",
     "react-redux": "5.0.5",
     "react-router-dom": "4.2.2",
     "react-router-redux": "5.0.0-alpha.6",
+    "react-swipeable-views": "0.12.15",
     "redux": "3.6.0",
     "redux-thunk": "2.1.0"
   },

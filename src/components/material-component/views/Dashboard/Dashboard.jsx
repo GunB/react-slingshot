@@ -31,15 +31,15 @@ import CardIcon from "../../Card/CardIcon.jsx";
 import CardBody from "../../Card/CardBody.jsx";
 import CardFooter from "../../Card/CardFooter.jsx";
 
-import { bugs, website, server } from "../../variables/general";
+import { bugs, website, server } from "../../variables/general.jsx";
 
 import {
   dailySalesChart,
   emailsSubscriptionChart,
   completedTasksChart
-} from "variables/charts";
+} from "../../variables/charts.jsx";
 
-import dashboardStyle from "assets/jss/material-dashboard-react/views/dashboardStyle.jsx";
+import dashboardStyle from "../../assets/jss/material-dashboard-react/views/dashboardStyle.jsx";
 
 class Dashboard extends React.Component {
   state = {
